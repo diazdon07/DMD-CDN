@@ -3,7 +3,7 @@
 // Date: 21-06-2025
 // Version: 0.0.1
 
-hotkeys.register('alt+e', function(e) {
+hotkeys.register('alt+s', function(e) {
   e.preventDefault(); // Prevent default browser action
   console.log('Hotkey Alt+E pressed');
   // Add your custom functionality here, e.g., save data, trigger an event, etc.
