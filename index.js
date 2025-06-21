@@ -13,7 +13,7 @@ document.addEventListener('keydown', function(event) {
   switch (true) {
     case alt && key === 's':
       event.preventDefault();
-      console.log('Ctrl + S was pressed (Save)');
+      
       break;
   }
 });
